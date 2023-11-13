@@ -1,2 +1,1 @@
-# time-series-forecasting
-Time series load forecasting
+This is the Repository for Machine Learning and Deep Learning Models for Multivariate Time Series Forecasting.The objective of case study is to compare which one is better between univariate & multivariate features.
